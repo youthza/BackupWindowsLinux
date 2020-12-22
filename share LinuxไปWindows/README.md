@@ -1,3 +1,5 @@
+# Share file Linux to Windows
+
 ### 1.	ทำการ install samba
 ~~~
 sudo apt-get install samba samba-common
