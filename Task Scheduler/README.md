@@ -17,7 +17,7 @@
 ![Editor preferences pane](https://github.com/youthza/BackupWindowsLinux/blob/main/Task%20Scheduler/17.png)
 ### 7.	ทำการเลือก Batch file ที่ต้องการ จากนั้นกด OK
 ![Editor preferences pane](https://github.com/youthza/BackupWindowsLinux/blob/main/Task%20Scheduler/18.png)
-### 8.	Conditions คือ การกำหนดการทำงานของเครื่อง เช่น จากภาพ ให้ทำงานตอนเครื่องทำงานเท่านั้น 
+### 8.	Conditions คือ การกำหนดการทำงานของเครื่อง เช่น ตัวอย่างด้านล่าง ให้ทำงานเมื่อเครื่องทำงานเท่านั้น 
 ![Editor preferences pane](https://github.com/youthza/BackupWindowsLinux/blob/main/Task%20Scheduler/19.png)
 ### 9.	Settings คือ การกำหนดการเรียกใช้งาน Task Scheduler
 ![Editor preferences pane](https://github.com/youthza/BackupWindowsLinux/blob/main/Task%20Scheduler/20.png)
