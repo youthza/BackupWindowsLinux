@@ -9,7 +9,7 @@ $ sudo apt-get install cifs-utils
 ### สร้าง folder ทั้ง Linux และ windows
 ### 3.	ทำการ mount ระหว่าง windows และ Linux
 ~~~
-$ sudo mount.cifs //10.25.10.81/ test1 /media/testmount -o user=Dell,iocharset=utf8,rw,file_mode=0777,dir_mode=0777
+$ sudo mount.cifs //10.25.10.81/test1 /media/testmount -o user=Dell,iocharset=utf8,rw,file_mode=0777,dir_mode=0777
 ~~~
 ![Editor preferences pane](https://github.com/youthza/BackupWindowsLinux/blob/main/share%20windows%E0%B9%84%E0%B8%9BLinux/3.png)
 ### 4.	ทำการ เช็ค mount 
