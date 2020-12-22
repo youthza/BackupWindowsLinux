@@ -34,7 +34,7 @@ $ sudo chmod 600 /etc/win-credential
 ~~~
 $ sudo umount /media/test1	
 ~~~
-### 10.	ทำการ test คำสั่ง mount auto
+### 9.	ทำการ test คำสั่ง mount auto
 ~~~
 $ sudo mount -a
 ~~~
