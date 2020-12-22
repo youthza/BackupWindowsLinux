@@ -14,7 +14,8 @@
 ![Editor preferences pane](https://github.com/youthza/BackupWindowsLinux/blob/main/Create%20LineNotify/6.png)
 ### 7.	Line Notify จะทำการ Connect ระหว่าง Line Notify กับ Group Line 
 ![Editor preferences pane](https://github.com/youthza/BackupWindowsLinux/blob/main/Create%20LineNotify/7.png)
-### 8.	ส่วนที่ 1 Curl คือเครื่องมือที่ใช้ยิงเข้าไปยัง server โดยผ่าน Protocol ต่างๆที่เราต้องการจะใช้
+### 8.  ทดสอบโดยใช้ Curl ส่งข้อมูล
+###     ส่วนที่ 1 Curl คือเครื่องมือที่ใช้ยิงเข้าไปยัง server โดยผ่าน Protocol ต่างๆที่เราต้องการจะใช้
 ###     ส่วนที่ 2 Token Code ที่ทำการ connect Token ระหว่าง Line Notify และ Group Line
 ###     ส่วนที่ 3 Message Box เป็นคำสั่งที่ต้องการให้แจ้งเตือนใน Group Line
 ###     ส่วนที่ 4 เป็น Server ของ Line Notify ที่ทำการยิงขึ้นไป
