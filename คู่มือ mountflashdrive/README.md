@@ -1,3 +1,5 @@
+# MountFlashDrive auto
+
 ### 1.	ทำการเสียบ flashdrive และเช็คว่า flashdrive เข้าเครื่องรึยัง
 ~~~
 Sudo fdisk -l 
