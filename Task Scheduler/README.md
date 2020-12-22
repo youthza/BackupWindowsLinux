@@ -22,5 +22,5 @@
 ### 9.	Settings คือ การกำหนดการเรียกใช้งาน Task Scheduler
 ![Editor preferences pane](https://github.com/youthza/BackupWindowsLinux/blob/main/Task%20Scheduler/20.png)
 ### 10.	เมื่อทำการ ตั้งค่า Take Scheduler เสร็จสิ้น จะปรากฏหน้าต่างแบบนี้ขึ้นมาเพื่อแจ้งเตือนว่าจะทำงานยังไง
-### ยกตัวอย่างตามภาพ จะทำการ Run Batch file ตอน 10 โมงเช้า ของทุกวัน เริ่มวันที่ 15 ตุลาคม 2563
+### ยกตัวอย่างตามรูป จะทำการ Run Batch file ตอน 10 โมงเช้า ของทุกวัน เริ่มวันที่ 15 ตุลาคม 2563
 ![Editor preferences pane](https://github.com/youthza/BackupWindowsLinux/blob/main/Task%20Scheduler/21.png)
