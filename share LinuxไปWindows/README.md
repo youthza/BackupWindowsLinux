@@ -29,3 +29,7 @@ $ sudo vi /etc/samba/smb.conf
 ~~~
 $ sudo service smbd restart
 ~~~
+### 7.  ทำการเช็ค services
+~~~
+$ sudo netstat
+~~~
