@@ -7,7 +7,8 @@
 ![Editor preferences pane](https://github.com/youthza/BackupWindowsLinux/blob/main/Create%20LineNotify/3.png)
 ### 4.	ทำการ Generate token ของ LineNotify
 ![Editor preferences pane](https://github.com/youthza/BackupWindowsLinux/blob/main/Create%20LineNotify/4.png)
-### 5.	ส่วนที่ 1 ทำการตั้งชื่อ Line Notify
+### 5.	เลือก Group Line ที่จะ connect
+### ส่วนที่ 1 ทำการตั้งชื่อ Line Notify
 ### ส่วนที่ 2 ทำการเลือก Group Line ที่ต้องการจะ connect กับ Line Notify
 ![Editor preferences pane](https://github.com/youthza/BackupWindowsLinux/blob/main/Create%20LineNotify/5.png)
 ### 6.	Line จะทำการ Generate Token Code ขึ้นมาให้ ทำการ copy Token Code
