@@ -22,7 +22,7 @@
 ###     ส่วนที่ 4 เป็น Server ของ Line Notify ที่ทำการยิงขึ้นไป
 ![Editor preferences pane](https://github.com/youthza/BackupWindowsLinux/blob/main/Create_LineNotify/8.1.png)
 ### 9.	ทำการ Save Line Notify ที่ทำเสร็จแล้วเป็น Batch file หรือ .bat เพื่อทำการ Run ผ่าน Command Prompt
-![Editor preferences pane](https://github.com/youthza/BackupWindowsLinux/blob/main/Create_LineNotify/8.png)
+![Editor preferences pane](https://github.com/youthza/BackupWindowsLinux/blob/main/Create_LineNotify/9.png)
 ### 10.	ทำการ Add Line Notify เข้า Group Line ที่ทำการ Connect Token ไว้
 ![Editor preferences pane](https://github.com/youthza/BackupWindowsLinux/blob/main/Create_LineNotify/10.png)
 ### 11.	เมื่อทำการ Run Batch file ที่ทำการสร้างขึ้น Curl จะทำการส่ง Message ไปยัง Server ของ Line Notify และทำการส่ง Massage นั้นกลับมาที่ Group Line ที่ทำการ Connect Token 
